@@ -113,7 +113,7 @@ Here are some key features of LinkedList provided by this package :
 
 You can install LinkedList package using pip :
 ```python
-pip install LinkedList
+pip install LinkedList_575
 
 ```
 
