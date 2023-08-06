@@ -69,7 +69,7 @@ def get_requirements(file_path: str) -> List[str]:
 
 
 DIR_NAME = Path(__file__).parent
-VERSION = '1.0.0'
+VERSION = '1.0.2'
 AUTHOR = 'Saqib Shaikh'
 REPO_NAME = 'LinkedList'
 PROJECT_NAME = 'LinkedList_575'
