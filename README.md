@@ -482,6 +482,6 @@ Contributions to the LinkedList package are welcome! If you find any bugs or hav
 
 ## **License** <a name = 'license'></a>
 
-© 2023 Saqib Shaikh
+&copy; 2023 Saqib Shaikh
 
 This package is distributed under the GNU General Public License v3.0 (GPLv3) License. See the [LICENSE](https://github.com/Saqibs575/LinkedList/blob/main/LICENSE) file for more details.
